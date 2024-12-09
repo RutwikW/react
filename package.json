@@ -4,8 +4,8 @@
   "description": "This is react by Rutwik Wagh",
   "main": "App.js",
   "scripts": {
-    "start":"parcel index.html",
-    "build":"parcel build index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Rutwik Wagh",
@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router": "^6.28.0",
+    "react-router-dom": "^6.28.0"
   }
 }
